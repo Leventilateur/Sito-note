@@ -17,15 +17,6 @@ img{
     height: auto;
   }
 
-  h2{
-  font-family: 'Avenir Black', sans-serif;
-  font-weight:100;
-  font-size: 30;
-  text-align: center;
-  margin-top: 20%;
-  margin-bottom: 20%;
-  margin-left: 2%;
- }
 }
 
 nav{
@@ -80,15 +71,15 @@ h1{
   text-align:center;
 }
 
-h2{
+  h2{
   font-family: 'Avenir Black', sans-serif;
   font-weight:100;
   font-size: 30;
   text-align: center;
-  margin-top: 6%;
-  margin-bottom: 6%;
+  margin-top: 10%;
+  margin-bottom: 15%;
   margin-left: 2%;
-}
+ }
 
 .hauteur{
   margin: 5 auto;
