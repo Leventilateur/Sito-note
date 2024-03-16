@@ -12,6 +12,12 @@ img{
   height:auto;
 }
 
+@media only screen and (max-width: 480px){
+  img{
+    width: 250px;
+  }
+}
+
 nav{
   width: 100%;
   background-color: #A26400;
