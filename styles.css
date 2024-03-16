@@ -16,6 +16,16 @@ img{
     width: 250px;
     height: auto;
   }
+
+  h2{
+  font-family: 'Avenir Black', sans-serif;
+  font-weight:100;
+  font-size: 30;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  margin-left: 2%;
+ }
 }
 
 nav{
@@ -75,8 +85,8 @@ h2{
   font-weight:100;
   font-size: 30;
   text-align: center;
-  margin-top: 20%;
-  margin-bottom: 20%;
+  margin-top: 6%;
+  margin-bottom: 6%;
   margin-left: 2%;
 }
 
